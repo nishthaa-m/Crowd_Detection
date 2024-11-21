@@ -86,7 +86,7 @@ Follow these steps to set up and run the application on your local machine.
 - The POS system simulates bill processing, where:
   - **Base Wait Time**: `2 minutes per person`
   - **Additional Time**: `1.5 minutes per bill`
-  - **Food Preparation Time**: `5 minutes`
+  - **Food Preparation Time**: `7 minutes`
 
 ### Flask-SocketIO
 
